@@ -1,0 +1,5 @@
+Implementation details:
+    Using Socket Programming and Serialization.
+
+GitHub Link:
+    https://github.com/emadehsan/AP_Lab3.git
